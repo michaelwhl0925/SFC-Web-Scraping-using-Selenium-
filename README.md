@@ -6,7 +6,7 @@ As the required website "https://apps.sfc.hk/publicregWeb/searchByRa?locale=en" 
 Hence, the Python Selenium module is used to "mimic" the human actions and, as a result, successfully extract all the required information on the site.
 
 In this program, I will attempt to extract all companies' info (CE Ref Num, Name, Chinese Name, Address, With Active Record) 
-under the "Type 9: Asset Management, Corporation" criteria.
+under the "Type 2: Dealing in futures contracts - Corporation" & "Type 9: Asset management - Corporation" criteria.
 
 Difficulties encountered during coding:
 1. Sometimes the website blocks me from scraping. Hence, I need to intentionally suspend the program from running by using "time.sleep()"
