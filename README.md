@@ -7,3 +7,5 @@ Hence, the Python Selenium module is used to "mimic" the human actions and, as a
 
 In this program, I will attempt to extract all companies' info (CE Ref Num, Name, Chinese Name, Address, With Active Record) 
 under the "Type 9: Asset Management, Corporation" criteria.
+
+P.S. Not attempt to have any conflicts of interests :)
